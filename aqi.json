@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "data": {
+        "city": "Holden Heights",
+        "state": "Florida",
+        "country": "USA",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -81.38785,
+                28.49667
+            ]
+        },
+        "current": {
+            "pollution": {
+                "ts": "2023-07-09T00:00:00.000Z",
+                "aqius": 21,
+                "mainus": "p2",
+                "aqicn": 7,
+                "maincn": "p2"
+            },
+            "weather": {
+                "ts": "2023-07-09T02:00:00.000Z",
+                "tp": 26,
+                "pr": 1014,
+                "hu": 88,
+                "ws": 3.6,
+                "wd": 210,
+                "ic": "01n"
+            }
+        }
+    }
+}
